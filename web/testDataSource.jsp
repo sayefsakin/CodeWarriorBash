@@ -14,7 +14,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hello World! with new commit</h1>
     <sql:query var="result" dataSource="jdbc/bashDataSource">
         SELECT * FROM user
     </sql:query>
